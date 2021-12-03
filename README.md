@@ -1,0 +1,2 @@
+# laborpedia
+Labor Document
